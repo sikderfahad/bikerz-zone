@@ -1,0 +1,81 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.ks-navbar {}
+
+.ks-navbar-nav li a {
+    color: white;
+}
+
+.ks-nav-brand {
+    width: 100px;
+}
+
+.ks-navbar-nav li a:hover {
+    color: rgb(73, 202, 73);
+}
+
+/* Carousel */
+
+.bz-carousel-control-prev {
+    width: auto;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    width: auto;
+}
+
+.feature-bike-img {
+    transition: .3s ease-in;
+}
+
+.feature-bike-img:hover {
+    transform: scale(1.2);
+}
+
+.bz-arrival-card-top {
+    height: 300px;
+}
+
+.bz-arrival-card-top {
+    transition: .3s ease-in;
+}
+
+.bz-arrival-card:hover .bz-arrival-card-top {
+    transform: scale(1.3);
+}
+
+.avatar-box {
+    width: 150px;
+}
+
+.footer-nav-top {}
+
+.footer-nav-top li:last-child {
+    margin-left: 30px;
+}
+
+.footer-nav-top li a {}
+
+footer a,
+p {
+    color: white;
+}
+
+.bz-app-store {
+    margin-top: -8px;
+}
+
+.footer-btn {
+    gap: .5rem;
+}
+
+.footer-btn i {
+    font-size: 30px;
+}
