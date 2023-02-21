@@ -61,10 +61,7 @@ li {
     margin-left: 30px;
 }
 
-.footer-nav-top li a {}
-
-footer a,
-p {
+.footer-nav li a {
     color: white;
 }
 
